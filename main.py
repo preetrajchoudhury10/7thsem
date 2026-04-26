@@ -29,7 +29,7 @@ TARGET_SUBJECT = {
     "Student Name": "SHANTANU KUMAR"
 }
 
-CHECK_INTERVAL = 600      # Check result every 10 minutes
+CHECK_INTERVAL = 180      # Check result every 10 minutes
 POLL_INTERVAL = 2         # Check for commands every 2 seconds
 NOTIFY_INTERVAL = 21600    # 6 Hour Status Report
 
